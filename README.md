@@ -13,3 +13,4 @@ I refactored this code within Visual studio Code. Listed below is a list of all 
 <body>
 1. in class <header> I changed the <div> tag to a <header> tag in order to seperate the information in the layout, creating the top of the body.
 2. In <header> added <nav> tags for the link navigation list items.
+3. commented out each section to make legible labels for each part of content
