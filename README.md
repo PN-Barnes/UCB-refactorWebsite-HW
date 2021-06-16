@@ -17,3 +17,6 @@ I refactored this code within Visual studio Code. Listed below is a list of all 
 3. commented out each section to make legible labels for each part of content
 4. Added alt="" attributes to each image as well as descriptions for images
 5.reorganized the <h> tags to be in order for page to evenly flow the size of headings throughout the page.
+6. Changed all <div> tags to coincide with more appropriate labels of division for the content.
+7. the content section changed from <div> tags to <article> as these sections are main content. 
+8. Benefits section changed <div> tags to <aside> tags to coincide with their sidebar information.
