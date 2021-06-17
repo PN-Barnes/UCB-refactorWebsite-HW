@@ -1,5 +1,5 @@
 # UCB-refactorWebsite-HW
-## Description
+# Description
 The repository ("UCB-refactorWebsite-HW") is where all the files associated with the Horiseon website and where the refactored source code will be located. The Source code is available for everyone under standard License.
 
 This Project is a refactoring of the Source code Provided by Horiseon Solutions. For this Project, I refactored the source code of the website in order to follow semantic HTML conventions to better optimize search engine results and accessibility. Originally, the source code seperated content within  Included within this README.md file is a list of all the changes to the source code made. This project did not change any of the content or styling of the webpage, just the structuring and labeling of the html and corresponding elements. All functionality with the original structure is still in place, index.html is now more precise and organized with original content.  
@@ -9,7 +9,7 @@ This Project is a refactoring of the Source code Provided by Horiseon Solutions.
 # Installation 
 
 ## Text Editor
-All code was written within visual studio code, any other text editor should work with these files but listed below is the editor used to write this project.
+All code was written within visual studio code, any other text editor should work with these files but listed below is the editor used to write this project. Local machine should be able to run files with index.html and style.css. Images are attached inside the assets folder.
 
 [Visual studio Code] (https://code.visualstudio.com/)
 
@@ -47,8 +47,13 @@ Located below is a link to the github and the live deployed site:
 8. Benefits section changed `<div>` tags to `<aside>` tags to coincide with their sidebar information.
 9. Wrapped the `<div>` with class of hero  with a figure tag due to the presence of an image being used within. `<figure>` is used to better label what that section is used as.
 10. Created an unordered list within the Navigation bar found in the header. 
+
+Overall, this project took place mostly inside the index.html file and fixed the structure of the html in order to make the legibility of the source code much easier to modify and follow.
+
 # Credits 
 
-All code refactoring was done through Visual studio code.
+All code refactoring was done through **Visual studio code**.
 
-This Project was provided by The University of Berkely Coding Bootcamp.
+Original content and source code was provided by **Horiseon Social Solution Services, inc.** all content is reserved by Horiseon.
+
+This Project was provided by **The University of Berkely Coding Bootcamp**.
