@@ -4,7 +4,11 @@ The repository ("UCB-refactorWebsite-HW") is where all the files associated with
 
 This Project is a refactoring of the Source code Provided by Horiseon Solutions. For this Project, I refactored the source code of the website in order to follow semantic HTML conventions to better optimize search engine results and accessibility. Originally, the source code seperated content within  Included within this README.md file is a list of all the changes to the source code made. This project did not change any of the content or styling of the webpage, just the structuring and labeling of the html and corresponding elements. All functionality with the original structure is still in place, index.html is now more precise and organized with original content.  
 
+# Usage
 
+## Semantic Html
+
+This Project is meant to demonstrate proper semantic HTML for a website. Using an abundance of html tags in order to properly label and clarify what each portion of content is trying to achieve. These tags have no effect on the functionality of the orginal page made with only `<div>` tags, but makes the content more legible and understandable to anyone who goes through the index.html file in the future. The reasoning behind semantic HTML is to label each bit of content for the purpose of knowing exactly what it does when looking at it. Not only does this save time, but makes the overall work more organized in order to perfom better and have the structure to create more complex structures later on.
 
 # Installation 
 
@@ -50,6 +54,15 @@ Located below is a link to the github and the live deployed site:
 ![Snapshot of finished Refactoring](./assets/images/snapshot.png)
 
 Overall, this project took place mostly inside the index.html file and fixed the structure of the html in order to make the legibility of the source code much easier to modify and follow.
+
+# References
+
+### listed here are links to websites related to semantic html used within this project:
+
+* [W3schools] (https://www.w3schools.com/html/html5_semantic_elements.asp)
+* [FreeCodeCamp] (https://www.freecodecamp.org/news/semantic-html5-elements/)
+* [MDN] (https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+
 
 # Credits 
 
