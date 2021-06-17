@@ -7,8 +7,9 @@ I refactored this code within Visual studio Code. Listed below is a list of all 
 This Project is a refactoring of the Source code Provided by Horiseon Solutions. For this Project, I refactored the source code of the website in order to follow semantic HTML conventions to better optimize search engine results and accessibility. Included within this README.md file is a list of all the changes to the source code made. This project did not change any of the content or styling of the webpage, just the structuring and labeling of the html and corresponding elements. All functionality with the original structure is still in place, index.html is now more precise and organized with original content.  
 
 ## Refactoring 
-### <html> 
-1.Spaced all content between the <html> tags to format under the parent to add better legibility.
+
+#### <html> 
+1. Spaced all content between the <html> tags to format under the parent to add better legibility.
 2. The whole page needed to be properly indented with their relative position within the page. 
 
 ### <head>
