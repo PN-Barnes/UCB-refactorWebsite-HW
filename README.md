@@ -20,3 +20,28 @@ I refactored this code within Visual studio Code. Listed below is a list of all 
 6. Changed all <div> tags to coincide with more appropriate labels of division for the content.
 7. the content section changed from <div> tags to <article> as these sections are main content. 
 8. Benefits section changed <div> tags to <aside> tags to coincide with their sidebar information.
+
+
+
+## Refactored Code - Horiseon Solutions
+This Project is a refactoring of the Source code Provided by Horiseon Solutions. For this Project, I refactored the source code of the website in order to follow semantic HTML conventions to better optimize search engine results and accessibility. 
+
+
+## Installation 
+
+# Text Editor
+All code was written within visual studio code, any other text editor should work with these files but listed below is the editor used to write this project.
+
+Visual studio Code: https://code.visualstudio.com/
+
+# Files and Site address
+Github repository: https://github.com/PN-Barnes/UCB-refactorWebsite-HW
+Live deployed site: https://pn-barnes.github.io/UCB-refactorWebsite-HW/
+
+
+
+## Credits 
+
+All code refactoring was done through Visual studio code.
+
+This Project was provided by The University of Berkely Coding Bootcamp.
