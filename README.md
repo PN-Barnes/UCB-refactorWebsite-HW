@@ -27,7 +27,6 @@ Located below is a link to the github and the live deployed site:
 
 # Refactoring 
 
-
 ### `<html>`
 1. Spaced all content between the `<html>` tags to format under the parent to add better legibility.
 2. The whole page needed to be properly indented with their relative position within the page. 
@@ -47,6 +46,8 @@ Located below is a link to the github and the live deployed site:
 8. Benefits section changed `<div>` tags to `<aside>` tags to coincide with their sidebar information.
 9. Wrapped the `<div>` with class of hero  with a figure tag due to the presence of an image being used within. `<figure>` is used to better label what that section is used as.
 10. Created an unordered list within the Navigation bar found in the header. 
+
+![Snapshot of finished Refactoring](./assets/images/snapshot.png)
 
 Overall, this project took place mostly inside the index.html file and fixed the structure of the html in order to make the legibility of the source code much easier to modify and follow.
 
