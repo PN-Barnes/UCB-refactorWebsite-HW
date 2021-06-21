@@ -53,6 +53,8 @@ Located below is a link to the github and the live deployed site:
 
 ![Snapshot of finished Refactoring](./assets/images/snapshot.png)
 
+![Snapshot of deployed application](./assets/images/Horiseon-Solutions.png)
+
 Overall, this project took place mostly inside the index.html file and fixed the structure of the html in order to make the legibility of the source code much easier to modify and follow.
 
 # References
